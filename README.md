@@ -10,7 +10,7 @@
 - 🐍 Caching (simple) | Git
 
 📫 **How to Reach Me:**
-- 📧 Email: adityarajansharma1234@gmail.com
+- 📧 Email: [adityarajansharma1234@gmail.com](mailto:adityarajansharma1234@gmail.com)
 - 📷 Instagram: [_adityyaa_001](https://www.instagram.com/_adityyaa_001)
 
 

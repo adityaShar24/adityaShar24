@@ -16,5 +16,5 @@
 
 🤝 Let's connect and collaborate on innovative backend projects. Feel free to reach out to me via email or connect with me on Instagram. I'm always looking forward to learning and contributing to the development community.
 
-      
+![](https://komarev.com/ghpvc/?username=adityaShar24)
 

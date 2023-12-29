@@ -6,7 +6,7 @@
 - 💼 I'm open to collaborating on exciting backend projects and expanding my knowledge.
 
 🔧 **Tech Stack:**
-- 🚀 Python | Flask | Django | MongoDB (Pymongo) 
+- 🚀 Python | Flask | Django | MongoDB (Pymongo) | PostgreSql | MySql
 - 🐍 Caching (simple) | Git
 
 📫 **How to Reach Me:**

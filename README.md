@@ -7,7 +7,8 @@
 
 🔧 **Tech Stack:**
 - 🚀 Python | Flask | Django | MongoDB (Pymongo) | PostgreSql | MySql
--  Git
+-  Git |
+  
 📫 **How to Reach Me:**
 - 📧 Email: [adityarajansharma1234@gmail.com](mailto:adityarajansharma1234@gmail.com)
 - 📷 Instagram: [_adityyaa_001](https://www.instagram.com/_adityyaa_001)

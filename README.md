@@ -7,7 +7,7 @@
 
 🔧 **Tech Stack:**
 - 🚀 Python | Flask | Django | MongoDB (Pymongo) | PostgreSql | MySql
--  Git |
+- 🐳 Docker | Redis | Git |
   
 📫 **How to Reach Me:**
 - 📧 Email: [adityarajansharma1234@gmail.com](mailto:adityarajansharma1234@gmail.com)

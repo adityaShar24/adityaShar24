@@ -1,7 +1,7 @@
 ## Hello , I'm Aditya Sharma 👋
 
 👨🏻‍💻 **About Me:**
-- 🎉 I'm an 19-year-old backend developer, passionate about building robust and scalable systems.
+- 🎉 I'm an 20-year-old backend developer, passionate about building robust and scalable systems.
 - 🔭 I'm focused on learning python and honing my skills in backend development.
 - 💼 I'm open to collaborating on exciting backend projects and expanding my knowledge.
 

@@ -8,6 +8,7 @@
 🔧 **Tech Stack:**
 - 🚀 Python | Flask | Django | MongoDB (Pymongo) | PostgreSql | MySql
 - 🐳 Docker | Redis | Git | RabbitMQ | Celery | Linux
+- ☁️ AWS | S3 | EC2 | Lambda
 - 🔒SSH | SCP
   
 📫 **How to Reach Me:**
